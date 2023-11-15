@@ -28,4 +28,8 @@
   color: var(--secondary-text-color);
 }
 
-/* TODO: HTML Attributes */
+/* CUSTOM HTML Attributes */
+[data-theme="dark"] {
+  --backgorund-color: #0a0a0a;
+  --forground-color: #567aff;
+}
